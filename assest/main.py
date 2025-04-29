@@ -28,4 +28,5 @@ def konversi_satuan():
     else:
         print("(!)Satuan tidak dikenal")
 
-konversi_satuan()
+while True:
+    konversi_satuan()
